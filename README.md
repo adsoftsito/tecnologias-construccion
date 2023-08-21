@@ -1,4 +1,5 @@
 # tecnologias-construccion
+# lista de [Clase](https://docs.google.com/spreadsheets/d/1AEaR0GrBNugsDdYTeIeBwli30aNf8tmQq9905viyYjE/edit?usp=sharing)
 # Proyecto de clase
 Crear un App en Flutter que consuma un modelo de IA.
 - La app debe ser desarrollada en Dart usando la plataforma Flutter
