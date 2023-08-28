@@ -27,6 +27,9 @@ Escoger alguno de los siguientes temas:
 2. Dart [Getting started](https://dart.dev/tutorials/server/get-started)
 3. First [Flutter App](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1?hl=es-419#0)
 
+# Paper
+1. Read [IA paper](https://github.com/adsoftsito/laboweb/blob/main/CI_CD_IA.pdf)
+
 # Entrenamiento de Python/Keras
 1. [Python](https://www.kaggle.com/learn/python)
 2. [Python](https://www.kaggle.com/learn/python)
