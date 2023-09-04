@@ -32,7 +32,7 @@ Escoger alguno de los siguientes temas:
 
 # Entrenamiento de Python/Keras
 1. [Python](https://www.kaggle.com/learn/python)
-2. [Python](https://www.kaggle.com/learn/python)
+2. [Pandas](https://www.kaggle.com/learn/pandas)
 3. [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 4. [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 5. [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
