@@ -30,6 +30,7 @@ Escoger alguno de los siguientes temas:
 # Paper
 1. Read [IA paper](https://github.com/adsoftsito/laboweb/blob/main/CI_CD_IA.pdf)
 2. Deploy [Machine Learning Model](https://docs.google.com/presentation/d/1OJNEZ4_p2yjNk01Q0TH5IVP7hQ4i26-HtyxxBuvsQwU/edit?usp=sharing)
+3. Lab [Retrain Model](https://docs.google.com/presentation/d/1oYxPVss0qxpClCr3T4c2zTHW6oJe335S775ho7rz1TM/edit?usp=sharing)
 
 # Entrenamiento de Python/Keras
 1. [Python](https://www.kaggle.com/learn/python)
