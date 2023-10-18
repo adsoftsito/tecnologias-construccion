@@ -32,7 +32,8 @@ Escoger alguno de los siguientes temas:
 2. Deploy [Machine Learning Model](https://docs.google.com/presentation/d/1OJNEZ4_p2yjNk01Q0TH5IVP7hQ4i26-HtyxxBuvsQwU/edit?usp=sharing)
 3. Lab [Retrain Model](https://docs.google.com/presentation/d/1oYxPVss0qxpClCr3T4c2zTHW6oJe335S775ho7rz1TM/edit?usp=sharing)
 4. Lab [Machine Learning Training](https://docs.google.com/presentation/d/1BpR2VEiPj4-bXZLq2Qk314g7zhuRihzeDHPZyX6VQAw/edit?usp=sharing)
-
+5. [Intermediate ML](https://docs.google.com/presentation/d/1XlzbuTwbWhUTQ1rbw897b-qJWYVken6A7osKCCwxt94/edit?usp=sharing)
+   
 # Entrenamiento de Python/Keras
 1. [Python](https://www.kaggle.com/learn/python)
 2. [Pandas](https://www.kaggle.com/learn/pandas)
