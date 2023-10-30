@@ -33,6 +33,7 @@ Escoger alguno de los siguientes temas:
 3. Lab [Retrain Model](https://docs.google.com/presentation/d/1oYxPVss0qxpClCr3T4c2zTHW6oJe335S775ho7rz1TM/edit?usp=sharing)
 4. Lab [Machine Learning Training](https://docs.google.com/presentation/d/1BpR2VEiPj4-bXZLq2Qk314g7zhuRihzeDHPZyX6VQAw/edit?usp=sharing)
 5. [Intermediate ML](https://docs.google.com/presentation/d/1XlzbuTwbWhUTQ1rbw897b-qJWYVken6A7osKCCwxt94/edit?usp=sharing)
+6. [Intro a Deep Learning](https://docs.google.com/presentation/d/1yOQJb273CKZpEEq3H17o_jvYJVgWbWfA_EF7WdoWTYQ/edit?usp=sharing)
    
 # Entrenamiento de Python/Keras
 1. [Python](https://www.kaggle.com/learn/python)
