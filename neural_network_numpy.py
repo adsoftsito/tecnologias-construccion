@@ -1,5 +1,5 @@
 # excel demo
-# https://docs.google.com/spreadsheets/d/1GABf2jSFXd5rvPxJSTVoMK_ooPmykxpk1KZDDZ9_Dbg/edit#gid=0
+# https://docs.google.com/spreadsheets/d/1GABf2jSFXd5rvPxJSTVoMK_ooPmykxpk1KZDDZ9_Dbg/edit?usp=sharing
 
 from scipy import stats
 import numpy as np
