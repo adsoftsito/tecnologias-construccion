@@ -19,6 +19,11 @@ Escoger alguno de los siguientes temas:
 - Clasificacion en datos tabulares
 - Series de Tiempo en datos tabulares
 
+# semana 1
+Slides [w1](https://docs.google.com/presentation/d/1QT3JepKHHVnUnL9E-HvUwYW5j6Pmu2lEZ-CDZYLzuIQ/edit?usp=sharing) 
+
+
+
 
 # Entrenamiento en Flutter/Dart
 
