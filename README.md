@@ -22,7 +22,8 @@ Escoger alguno de los siguientes temas:
 # semana 1
 Slides [w1](https://docs.google.com/presentation/d/1QT3JepKHHVnUnL9E-HvUwYW5j6Pmu2lEZ-CDZYLzuIQ/edit?usp=sharing) 
 
-
+# semana 2
+Slides [w1](https://docs.google.com/presentation/d/1u3l-4H3sDY8By-H16vKjJz6-yRtpBHWf9VvfRxwlZuI/edit?usp=sharing)
 
 
 # Entrenamiento en Flutter/Dart
