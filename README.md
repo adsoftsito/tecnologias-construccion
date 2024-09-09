@@ -28,7 +28,8 @@ Slides [w2](https://docs.google.com/presentation/d/1u3l-4H3sDY8By-H16vKjJz6-yRtp
 # semana 3
 Slides [w3](https://docs.google.com/presentation/d/1qnWc82FNnwUNZa1PuR1YNx5gL8sAAN7P/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
 
-
+# semana 4
+Slides [w4](https://docs.google.com/presentation/d/1sXA3PD4YXapFkr6DMR-oCHdafSkY6YI3/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
 
 # Entrenamiento en Flutter/Dart
 
