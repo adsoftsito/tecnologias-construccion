@@ -43,6 +43,9 @@ Slides [w7](https://docs.google.com/presentation/d/1w_Ewy0xflCkP5i8RyipYOGQ8uX4A
 # semana 8
 Slides [w8](https://docs.google.com/presentation/d/1ZJoOuOaTiP_luvME3NV-gcR_inXC-Tyu/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
 
+# semana 9
+Slides [w9](https://docs.google.com/presentation/d/11aXmJ751CRFo4KmoG1OS3FjhhB2dkZ7S/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
+
 # Entrenamiento en Flutter/Dart
 
 1. Install, Test [Flutter y Dart](https://docs.flutter.dev/get-started/install)
